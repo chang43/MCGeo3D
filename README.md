@@ -1,4 +1,1 @@
-Drag the MCNP input file to the window then drop, then the geometry is displayed in 3D.
-All the surfaces (Plane, Sphere, Cylinder, Cone,...), macrobodies (REC, SPH, RPP, HEX, ARB, ...), 
-lattice card, universe card and fill card are all supported.
-To view the clip plane, click the clip button, press the right mouse and move. 
+Open the mcnp input file or drag the MCNP input file to the window, and this software can display the 3D geometry.  Surfaces (Plane, Sphere, Cylinder, Cone,...), macrobodies (REC, SPH, RPP, HEX, ARB, ...), lattice card, universe card and fill card are all supported. To view the clip plane, click the clip button, press the right mouse and move. Pictures of the 3D geometry can be saved and the model can be exported to a STP file.
