@@ -1,1 +1,4 @@
-Open the mcnp input file or drag the MCNP input file to the window, and this software can display the 3D geometry.  Surfaces (Plane, Sphere, Cylinder, Cone,...), macrobodies (REC, SPH, RPP, HEX, ARB, ...), lattice card, universe card and fill card are all supported. To view the clip plane, click the clip button, press the right mouse and move. Pictures of the 3D geometry can be saved and the model can be exported to a STP file.
+MCGeo3D: Instantly visualize your MCNP geometry in 3D.
+Simply open or drag an MCNP input file into MCGEO3D, and your model comes to life. The software supports a wide range of geometry definitions, including all the surfaces such as planes, spheres, cylinders,cones and torus ; macrobodies such as REC, SPH, RPP, HEX,WED,TRC,BOX,ELL and ARB; as well as lattice, universe and fill cards.
+Explore your model interactively with a clip plane: just click the clip button, hold the right mouse button, and move to inspect internal structures. 
+You can also save high-quality pictures of the 3D geometry and export the model to a STP file for further use in CAD workflows.
